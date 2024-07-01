@@ -1,0 +1,6 @@
+BM.m is the function of Borda count method
+CG.m is the function of competition graph method
+MC.m is the function of Markov chain method
+GCM.m and GCM2.m are the function of data generation.
+If you need more detailed information please contact: 
+Guanghui_Li@mail.bnu.edu.cn
